@@ -1,7 +1,7 @@
 .homepage {
   height: 100vh;
   weight: 100vw;
-  background: linear-gradient(122.19deg, #da2079 1.89%, #2a00d5 113.56%);
+  background: linear-gradient(122.19deg, #08db2b 1.89%, #e2f154 113.56%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -53,6 +53,6 @@
   top: 10px;
   right: 10px;
   padding: 20px;
-  background: red;
+  background: rgb(162, 0, 255);
   color: white;
 }
